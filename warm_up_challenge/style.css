@@ -1,7 +1,7 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
-_________ {
+ .pokemon{
     font-family: Helvetica;
     font-size: 300%;
     color: #ffd63e;
@@ -9,7 +9,11 @@ _________ {
 }
 
 /* Record your solutions here:
-   #1 -
+   #1 - .pokemon{
+    font-family: Helvetica;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
    #2 - 
    #3 - 
    #4 -
