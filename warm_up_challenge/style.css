@@ -2,10 +2,10 @@
    to produce the desired output */
 
  .pokemon{
-    font-family: Helvetica;
-    font-size: 300%;
+    font-family: Times new roman;
+    font-size: 450%;
     color: #ffd63e;
-    text-align: center;
+    text-align: right;
 }
 
 /* Record your solutions here:
@@ -14,8 +14,18 @@
     font-size: 300%;
     color: #ffd63e;
     text-align: center;
-   #2 - 
-   #3 - 
+   #2 -  .pokemon{
+    font-family: Times new roman;
+    font-size: 300%;
+    color: #ffd63e;
+    text-align: center;
+}
+   #3 - .pokemon{
+    font-family: Times new roman;
+    font-size: 450%;
+    color: #ffd63e;
+    text-align: center;
+}
    #4 -
    #5 -
 
